@@ -1,0 +1,501 @@
+Query_ID,Query_Natural_Language,Query_Type,ModelX,ModelY,User_Choice,Comment/Explanation
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Same results
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both lists contain information requested
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both lists are correct.
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both are correct
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both Y and X list correct answers
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,The both list have correct answer.
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both Y and X list correct answers
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y has more universities
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is more relevant. A higher number of doctoral students
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,BOTH OPTIONS ARE THE SAME
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Famous composers
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because its more accurate
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,List X contain information requested
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,in list x there are any classical music composers
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,Is more compatable.
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,same
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both of X and Y are good and correct
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,X list includes movies more popular
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,List x is irrelevant
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Looks more relevant
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because it answers the question
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,in list Y there are any movie directed by Steven Spilberg
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both film not contain Spielberg movies
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"In table X we have one Spielber movie who have award, in Y none."
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,MOre relevant
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Both lists contain information requested but the list Y is most relevant
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y has correct answers
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both correct
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y lists better anwsers
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate than Y
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,BOTH OPTIONS ARE THE SAME
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,both X and Y is not answer the question
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,y has cartoon characters
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y  list does not contain police comedies
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Looks same
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both X and Y present right answers
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,"The both list are the list of teams, their managers and their locations."
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both have the same teams
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,X and Y both answer the question
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Looks same
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both X and Y present correct answers
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,The both are the lists of employees and their alma maters.
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,X and Y have similar lists
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,In both same
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both lists contain information requested
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,correct answers from both lists.
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both are correct
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both Y and X list correct answers
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both same
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both lists contain information requested
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both are list of people who died in WWII and their resting places
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,List Y is longer.
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,More relevant
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both of the lists are okay
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,The both list are correct and all actors are the producers in the same time.
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,X is more accurate has movies and TV series. Y also have concerts
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Only Charlie Chaplin
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because it answers the question
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,list x is not of Charlie Chaplin movies
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y lists the correct answers
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,X did not containg Charlie Chaplin movies
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"The better choice is X, with more Canes movies."
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both Y and X list correct answers
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y contains persons who are not directors
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,All movies in X were in Cannes Film Festival
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,BOTH OPTIONS ARE THE SAME
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,More famous
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both lists contain information requested
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y has good options.
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both are correct
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both Y and X list some of correct answers
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because it answers the question
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,same
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y lists black comedy movies
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y list includes black comedies
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,List x is irrelevant
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Results from Canada
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is more accurate
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,in list x there are any rock stars from Ottawa
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,List X not contain star from Hottawa
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,"Better choice is Y, because Ottawa is in Canada, not United States."
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,same
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,"Not all of the movies in X are comedies, so Y is a better answer"
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y list includes more popular movies
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both are the same
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"X list have more drama movies than Y list,"
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both Y and X list correct answers
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,In-degrees Approach,X contained non actors persons
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List of Y includes songs. X are all movies
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,BOTH OPTIONS ARE THE SAME
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y lists right answers
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,"Y is more accurate. List in X includes actors, writers and musicians"
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,BOTH OPTIONS ARE THE SAME
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both list has same options
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,List X is more popular.
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Only law schools
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because its more accurate
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X list contain more law School
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y has much better and correct answers
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate
+199,List of results; each result represents: two shows both created by the same person; and both directed by the same person ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,MOre results
+199,List of results; each result represents: two shows both created by the same person; and both directed by the same person ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+199,List of results; each result represents: two shows both created by the same person; and both directed by the same person ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,X has more valid options than Y
+199,List of results; each result represents: two shows both created by the same person; and both directed by the same person ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,X have more different answers
+199,List of results; each result represents: two shows both created by the same person; and both directed by the same person ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both are of directros and creators who worked in the same show
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both Y and X list correct and good answers
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is more accurate. Gives us names of producers
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,BOTH OPTIONS ARE THE SAME
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y has more results than X list
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,List X is better.
+201,List of christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,More Xmas movies
+201,List of christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,x is more accurate
+201,List of christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,None lists contain information requested
+201,List of christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,there aren't  crhismast movies in in list x and in list y
+201,List of christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List X is better.
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X list is correct because have wedding movies.
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,x has the correct answers
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,In-degrees Approach,Y does not have wedding movies
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate. Y has songs
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,BOTH OPTIONS ARE THE SAME
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"X list is correct, Y doesnt have Bette Davis movies."
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X lists correct answers
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y did not contain BetteDavis movies
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,In X all movies were starred by Bette Davis
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X OPTION ARE BETTE DAVES MOVIES
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Looks same to me
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,in list x there are more comedy directors than in list y
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both X and Y list correct answers
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both showed same information
+205,List of actors-authors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y has better answers
+205,List of actors-authors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is more accurate than X
+205,List of actors-authors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y OPTION ARE MORE KNOWN THAT X OPTION
+205,List of actors-authors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y option has more known actors-authors
+205,List of actors-authors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,List Y is correct.
+206,List of Grammy Awards wining producer who were born in NYC ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,X and Y both answer the question
+206,List of Grammy Awards wining producer who were born in NYC ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,same
+206,List of Grammy Awards wining producer who were born in NYC ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both X and Y are okay and list the correct answers
+206,List of Grammy Awards wining producer who were born in NYC ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both correct
+206,List of Grammy Awards wining producer who were born in NYC ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both are the same
+207,List of award-wining feminist authors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Looks more relevant
+207,List of award-wining feminist authors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because its more accurate
+207,List of award-wining feminist authors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,authors are more popular
+207,List of award-wining feminist authors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List X are more popular
+207,List of award-wining feminist authors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"X and Y are award-wining autors, but X have more popular autors."
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,List Y is relevant
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,The list Y contain information requested
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,Y is more accurate than X option.
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,X list is not correct
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,Y lists the good and correct answers
+243,List of national-book-award wining thriller novels ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,More relevant
+243,List of national-book-award wining thriller novels ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,Y is better because its more accurate
+243,List of national-book-award wining thriller novels ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,in list y more books than in list x
+243,List of national-book-award wining thriller novels ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,Y lists a few of the correct answers
+243,List of national-book-award wining thriller novels ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,Y had more winning-books awards
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,same,Both same
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,same,none answers the question
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,same,same options!
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,same,X and Y have the same answers but on different order
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,same,"both list are of moveis starred buy Frank Sinatra, Frank Sinatra and John Mahoney never starred in the same movie"
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,In-degrees Approach,Our Appproach,In-degrees Approach,X is better because it answers the question
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,In-degrees Approach,Our Appproach,same,same
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,In-degrees Approach,Our Appproach,In-degrees Approach,X is good and lists the correct answers
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,In-degrees Approach,Our Appproach,In-degrees Approach,X list includes Sinatra's movies
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,In-degrees Approach,Our Appproach,In-degrees Approach,List y is irrelevant
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,Our Approach,More relevant
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,same,X and Y both answer the question
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,same,List are the same
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,Our Approach,X has better answers
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,Our Approach,Looks more relevant
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,same,X and Y both answer the question
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,Our Approach,X list contain more doctor
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,same,Both are bad and list only one doctor
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,same,Both have the same accuracy
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,same,Both looks same
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,same,both has the same answers
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,same,X and Y have similar answer and on both have answer not correct
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,same,same amount of movies directed by Woody Allen and Starre by Scalet Johanson in both list
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,More relevant
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,Y is better bacause its more accurate
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,List X not contain the requested information
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,Y is better because one of its itens is the correct answer
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,same,None of the list is accurate
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,Our Approach,X is better because it answers the question
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,Our Approach,More relevant
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,Our Approach,Woody Allen wrote all the movies in X
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,Our Approach,All movies in X list are write by Woody Allen. Not so in Y list.
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate. Y include films and songs written by different people
+253,List of people who dies in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,In-degrees Approach,List in X is more accurate
+253,List of people who dies in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,same,BOTH OPTIONS ARE THE SAME
+253,List of people who dies in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,Our Approach,Y answer is better than X
+253,List of people who dies in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,In-degrees Approach,y has other places of birth and other university also
+253,List of people who dies in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,In-degrees Approach,Our Appproach,same,"X and Y both answer the question,  So X and Y are the same."
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,More famous
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,X and Y both answer the question
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List X are more popular
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both of X and Y are good and correct
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both have the same accuracy
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,More famous
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because its more accurate
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X list are more popular
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both of X and Y are good and correct
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both have same accuracy
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,All same
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,list X contain information requested
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,both option has correct answers
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both are correct
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,In-degrees Approach,List Y has better answers
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,More results
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y has more alternatives for correct answers than X
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y ares similar popularity answers
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both are List of movies that were directed by one of their stars; and their religion
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,"In both lists, all couples born in the same place"
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,BOTH OPTIONS ARE THE SAME
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,In-degrees Approach,some answer from X is wrong
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,both have equal
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both lists contain correct answers
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both X and Y have award-winning comedies
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,BOTH OPTIONS ARE THE SAME
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both X and Y is answer the question
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,x has more awards
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both options except earned programs
+906,List of couples who have the same job ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Looks same to me
+906,List of couples who have the same job ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+906,List of couples who have the same job ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both are List of couples who have the same job
+906,List of couples who have the same job ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,List are the same
+906,List of couples who have the same job ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,All couples in these tables have a same job.
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,MOre relevant
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,Both lists contain information requested but the list X is most relevant
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both are ist of sitoms; their directors; the spouses and the birth places of the directors
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,List X is better because has more sticom and directors then list Y.
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,MOre results
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,X is better becauses its more accurate
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both list are List of producers who were born in the same places; and the largest city in that place
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,List Y is more various
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,The both table is correct.
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,More relevant
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,X and Y both answer the question
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,X and Y are correct
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,X and Y   have the most same answers
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,both are  List of couples who graduated from the same universities
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,In both lists are same
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,the list X is most relevant
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y option has artists more known than X option.
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both are correct
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both Y and X list correct answers
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,"The same lists, both are correct."
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both Y and X list correct answers
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both have eastern time zone
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y has cities with the same time zone as NYC´s
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,BOTH OPTIONS ARE THE SAME
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both same
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y has correct answers
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both are correct
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both list are of graduated from Harvard and appear their nationality
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both Y and X list correct answers
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Newspapers in both lists have the same format
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,BOTH OPTIONS ARE THE SAME
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both Y and X are the same
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Lists are same.
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X has better answers
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate than Y
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X OPTION HAS MORE KNOWN CHANNELS
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,both list has correct answers.
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"List X is better because show slogan,"
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Looks same to me
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both are list of late directors who were actors at the same time; and their death places and dates
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both X and Y are okay and list the correct answers
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,"both showed actors, places and date of death"
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both Y and X list correct and good answers
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,"producers, actors and directors in both lists born in the same place"
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,BOTH OPTIONS ARE THE SAME
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,both lists are correct
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Lists are same.
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both same
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,X and Y both answer the question
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both lists contain information requested
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,both are List of couples who worked with the same directors
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,X and Y are the same.
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,The both list are correct and have a producers who was born in Dallas.
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both Y and X list correct answers
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,both have producers born in Dallas
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,All people on X and Y are producers and born in Dallas
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,BOTH OPTIONS ARE THE SAME
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,X and Y both answer the question
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Looks same
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both X and Y are okay since both list stars of NBC shows
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,The same are NBC shows and series.
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,X has 1 more star than Y
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both lists loks same
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,X and Y both answer the question
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Lists are the same
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both of X and Y are good and correct
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both have the same accuracy
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,All Disney movies
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because its more accurate
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X has more correct answers than Y
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X are disney films
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,are Disney movies
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because it answers the question
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,y
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Only Y lists the correct answers
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y list is correct
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,List x is irrelevant
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate. All are horror movies and have the name of the composer
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X ARE MORE KNOWN OPTIONS THAN Y
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y answer is not Horror movies
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,x has listing of horror movies
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X  answer the question
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,More famous
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because its more accurate
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,The list X contain information requested
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,in list y there are any animated movies
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"Is list music composers in animated movies, list Y is not about animated movies."
+940,List of arab countries prime ministers ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,More relevant
+940,List of arab countries prime ministers ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because it answers the question
+940,List of arab countries prime ministers ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,list x is not about arab countries
+940,List of arab countries prime ministers ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,X list is not about arab prime minister
+940,List of arab countries prime ministers ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,"Y is better choice, X table have more european prime ministers."
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because it answers the question
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,x
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better than Y because all of the itens listed were developed by Microsoft
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X list includes Microsotf software
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List y is irrelevant
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because it answers the question
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,x
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is a better answer and shows correct answers
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X list includes apple software
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List y is irrelevant
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate than Y
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X OPTION ARE SOFTWARES FROM NOKIA
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y not answer the question
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,y has no softwares from nokia
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"X  It is the best option, Y it has not made by nokia"
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,More results from Samsung
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because it answers the question
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,in list y there are more softwares developed by Samsung than in list x
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Some of the ones listed in Y were developed by Samsung against none in X.
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y has more samsung developed softwares
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate than Y
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X OPTION ARE SOFTWARES FROM SONY
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y is not answer the question
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,only x has sony inventions
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"X  It is the best option, Y it has not made by sony"
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Only USA
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,x is better because it answers the question
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,list y is not of time zones in the United States
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List Y is not of USA
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is correct because have countries in US.
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"X is more accurate than Y, They are all african cities"
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X OPTION ARE MORE KNOWN
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y not answer the question
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,x has right format and have  african country
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"X  Has the time zones of Africa, Y does not"
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,X is more accurate. Not all countries in Y belong to the Arab World
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,X OPTIONS ARE ARAB WORLD
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,Y answer is wrong
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,y has arab country listing
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,"X  Has the time zones of arab, Y does not"
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,All in Europe
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because it answers the question
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,list y is not of time zones in Europe
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is the one that lists time zones of areas in Europe
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y showd other than Europe time zones
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Founders have names
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because it answers the question
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,in list x there are any film companies
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,List Y more popular
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,"Y is right answer, X have more schools than film  companies."
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,More famous
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because its more accurate
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,mor banks and more popular in list y
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y lists a few of the correct answers of banks founders
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,X did not containg founders
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better choice with more IT companies.
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X has better and correct answers
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y did not contain companies and founders
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X has more popular information technology companies
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X OPTION ARE INFORMATION TECHNOLOGY COMPANIES
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Names of resorts
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because its more accurate
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y are more known.
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y are More Popular
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,there are more resorts
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Is more relevant
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,In-degrees Approach,Y is better because it answers the question
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,In-degrees Approach,This list contain information requested
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,there are mor codes in regios in the arab worls than in list y
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both list are bed.
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,y is better because it answers the question
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is relevant becouse it is in Europe
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y lists areacodes in regions in Europe
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is european cities.
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is more accurate. All cities have area code
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,MOre relevant
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because its more accurate
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,List Y is from Africa
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y has better answers
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is more accurate. Gives us area codes
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is more accurate. There is no indian producers in X
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,In-degrees Approach,X OPTION ARE MORE KNOWN THAT Y
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,X answer is not Indian producer
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,y has list of indian producer and religion
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,Both lists contain correct answers
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y is incomplete
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,x is better because it answers the question
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,The X list contain information requested. Y no contain university
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,in list Y there are any universities
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List X is comleted.
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X lists the right answers
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate. Gives us a list a US presidents
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X OPTION ARE U.S.A  PRESIDENTS
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X list has the correct answer
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List Y is not correct.
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,In Y are Indian
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,same,None list are relevant
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,I suppose than Y is more specific than X option.
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,X list are not Indian
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y lists indian actors
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,In-degrees Approach,Y is better because it answers the question
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,In-degrees Approach,Indian producers in list Y
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both lists are bad because none of the producers listed are indian.
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,"None of these are correct. They are not indians producers, they are americans."
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,same,Both lists don´t have indian producers
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X has better answers
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate than Y
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y OPTION DOES NOT HAVE POLITICIANS
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X list is the correct option
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List Y is not correct.
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,More relevant
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because it answers the question
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List Y not correct
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,In-degrees Approach,Y has the correct  answers for NBA players who are also actors
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is more accurate. Y doesn´t give names
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Only shows
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because its more accurate
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,in list y there are more shows
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,List Y are more popular
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,"Y is the right answer, X didnt have a name of hosts."
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Coachs in NBA
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because it answers the question
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y has more correct answers than X
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y are NBA teams
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,in list y all of them are nba in list x no
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Only FIFA coaches
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because it answers the question
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,list Y is not of FIFA coaches
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X lists the correct answers
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y did not show coach name
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because it answers the question
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,List of indian actors
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,"In Y, all of the actors listed are Bollywood actors"
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,"Y is right answer, X have some painters and scientists,.."
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is more accurate in the list of award-winning actors from India
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X lists correct answers
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List on X is made by Apple products
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X OPTION ARE APPLE PRODUCTS
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,"X list is about Apple products, Y list isn´t"
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List Y is not correct.
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,More relevant
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because it answers the question
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Both lists contain information requested but the list X is most relevant
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,it is a List of NBA players and their weightsin list  y there are any weights
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List X is popular.
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,More famous
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because its more accurate
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,are more popular
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is a better list since it's more complete
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y did not show commands in some cases
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X is better because it answers the question
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,x
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Only X lists songs by Shakira
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X list includes Shakira's songs
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,List y is irrelevant
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is better because it answers the question
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,It is Michael songs
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y lists songs by Michael Jackson
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,"Y is right answer, X are songs of other authors and football songs."
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y is more accurate. All songs are by Michael Jackson
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y list have football songs and songs other authors.
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X lists better and correct answers
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,Y did not containg Rihana's songs
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,All songs in X are by Rihanna
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,Our Appproach,In-degrees Approach,Our Approach,X OPTIO ARE RIHANNA SONGS
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,In X are various artist
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,The list Y contain information requested
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,"Y has correct answers, but no X option."
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,X list are not songs
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,In-degrees Approach,Our Appproach,Our Approach,Y lists Taylor Swift songs

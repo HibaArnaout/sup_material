@@ -1,0 +1,501 @@
+Query_ID,Query_Natural_Language,Query_Type,ModelX,ModelY,User_Choice,Comment/Explanation
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y has more known universities than X
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,All American
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both lists have both famous and not-so-famous universities
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,this lis is more precise
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y are more popular
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Everything OK on both lists.
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,same
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,same quality answers
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,more doctoral students
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y is better
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,list Y also other films than gunfights and battles
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,they are classical composers
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Both list contain some composers as requested
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,GUNFIGHTS AND BATTLES
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,list y have repeats
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Because both are corect
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Everything by the rules.
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,more famous people
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,X partially answered the question; Y is all accurate
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,no spielberg
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Not sure there are Spilberg's movies.
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,Y is a list of Spielberg award-wining movies
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,t
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,"However, X is better because the names are more popular."
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,y list has more various results
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,List x have repeats
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,"Both lists are of the requested genre, although with different series"
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y is out of topic
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both are corect
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,not sure which one is  comedy movies about police
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y are police comedy movies and series
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,Y has a tv seriess
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both lists are valid
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,More results
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both are corect
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Both lists are of teams; their managers; and their locations.
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both results are valid
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Equals
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both are corect
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,"Y includes some NO alma mater, but countries."
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both are corect
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,same
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,same
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,x has new ones
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Both lists are good.
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Equal
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both list are same
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both provides valid list
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Both lists are good.
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,reconocidos actores productores
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,y list has more various results
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Equal
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,The List X contain the information
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,y list is about movies not directed by Chaplin
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,"All of list X were directed by himself, i mean Charlie Chaplin"
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Not Chaplin's movies on Y list.
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Better
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y as known movies starring and directed by famous people
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,More known names
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,x and y famous person is director and starrinh
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,all they are were
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y are more popular
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y list has all British Universities
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Equal
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,list x Various literary genres
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,y is amricans
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y has black comedy movies and were made by famous directors
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Better known movies
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Not black comedy in two.
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y has movies of black comedy
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,X and Y are the same
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is corect
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,there is no proper answer in X list; Y contains few
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"Y is better. X is irrelevant, it does not include any rock stars from Ottawa"
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,better
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,ottowa
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,List X have repeats
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both list is corect
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,No errors on lists.
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same quality
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X list is more accurate
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x list has more popular results
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Equal
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,x list musicals
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Actors
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X better
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,"X list is better because contains some cities,not only countries."
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,More results
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,X - more closed places
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both list are same
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,There is no better set.
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,"some from X are law schools, but only 1 in Y is a law school"
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,fail list x
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,X's answers are quit difficult to judge.
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X list is more informative
+199,List of results; each result represents: two shows both created by the same person; and both directed by the same person ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,Both lists contain information requested but the list Y is more varied.
+199,List of results; each result represents: two shows both created by the same person; and both directed by the same person ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,y list has more various results
+199,List of results; each result represents: two shows both created by the same person; and both directed by the same person ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y includes differents creator for the same film.
+199,List of results; each result represents: two shows both created by the same person; and both directed by the same person ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Only second and last example on Y list are correct.
+199,List of results; each result represents: two shows both created by the same person; and both directed by the same person ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both are corect
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,The list X is wrong
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,On X list there is one mistake:Alex_Borstein spouse Alex_Borstein!
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,"X and Y, Both could be the answer"
+201,List of christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,more movies
+201,List of christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Both is corect because is a list of christmas movies and their stars and directors
+201,List of christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,"I'm not sure is any film from Y list about Christmac,on X list I see at least one."
+201,List of christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,better options
+201,List of christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,"X contains at least one Christmas movie, Y don't"
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,same quality
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,"X and Y, Are as well known as others"
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x because that list contains wedding film directors
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,They both are same.
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,more wedding movie
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,x list doesn't answer to the question
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Fail in list x
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,x list no bette davis movies
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,better answer
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x has more famous names
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X They are better known names of directors
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both x and y answer the question
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,They both are same.
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,more detailed
+205,List of actors-authors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,william shakespeare is one of the greatest authors ever lived
+205,List of actors-authors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,All Shakespeare
+205,List of actors-authors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,"William Shakespeare is famous, from other list I've never heard about anybody"
+205,List of actors-authors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,this list is more precise
+205,List of actors-authors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,Y contain more authors
+206,List of Grammy Awards wining producer who were born in NYC ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,All producers were born in NYC.
+206,List of Grammy Awards wining producer who were born in NYC ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same
+206,List of Grammy Awards wining producer who were born in NYC ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,more famous people in x
+206,List of Grammy Awards wining producer who were born in NYC ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,more producers
+206,List of Grammy Awards wining producer who were born in NYC ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,better
+207,List of award-wining feminist authors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,The List Y contain the information
+207,List of award-wining feminist authors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Alice Munro is the only feminist author who I know :)
+207,List of award-wining feminist authors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Both list include feminist authors.
+207,List of award-wining feminist authors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,lists male and female authors.
+207,List of award-wining feminist authors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,Y is corect
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,"There is no correct answers in X, while Y gives a few"
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,"Y is better because it’s more accurate.. X not answered the question,  Y partially answered the question"
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,X has no frank
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,true list
+243,List of national-book-award wining thriller novels ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,X is corect
+243,List of national-book-award wining thriller novels ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,same,Same
+243,List of national-book-award wining thriller novels ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,about fiction
+243,List of national-book-award wining thriller novels ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,x are more valuable awards
+243,List of national-book-award wining thriller novels ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,Y not all books
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,same,Same list
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,No-Rank Approach,X is close to corect
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,same,No film with both of them starring in it.
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,same,they font act in both
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,same,There is no correct answer in both lists
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,Our Approach,No-Rank Approach,same,Even one film from both lists is not directed by Sinatra.
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,Our Approach,No-Rank Approach,same,same
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,Our Approach,No-Rank Approach,same,none with sinatra
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,Our Approach,No-Rank Approach,same,same
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,Our Approach,No-Rank Approach,same,none of them answer
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,Y is corect
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,Better
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,Woody Allen movies that Dick Hyman worked on
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,x not dick hayman
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,X no dick hyman
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,same,both lists have poor results
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,same,Equal
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,In list b there is a doctor graduated in the university of padua
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,same,All are from Oxford
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,same,they all did
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,Y list is wrong.
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,"Some in X, nothing in Y, data is clear"
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,Fail list y
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,I think X is a better answer.
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,same,Both lists are missing correct data
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,same,both lists are unvalid
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,No-Rank Approach,fail in list y
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,X list contains only answer to the question
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,John_Mahoney
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,only x list has searched names
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,x list isn't about Allen's movies
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,fail in list x
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,Only Y list contains answers to the question
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,Y flimleri doğru
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,No-Rank Approach,Our Approach,Our Approach,only y list contains woody allen movies
+253,List of people who dies in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,More results
+253,List of people who dies in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,X is corect
+253,List of people who dies in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,same,Not sure is it mistakes but we were asked about dying in Agatha's death places both on both lists we have only birth places for these people.
+253,List of people who dies in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,Our Approach,cover same topic
+253,List of people who dies in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,No-Rank Approach,same,both lists are bad
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Well known names
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,"all are famous in list X, list Y not so famous persons"
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X has more famous movies
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x has better known stars
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y are not so popular
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Everything is correct.
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Equal
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both list  are same
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,thare are more actors in the x list
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,more results
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is corect
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,Y includes list who are influenced by the film.
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Different movies but everything is targetted on both lists.
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,data is clear
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Equal
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,They both are good answers.
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Both lists are good
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,"Maybe X because contains not just countries,but a few cities."
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,"all of them are good, data is pretty clear"
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same results
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,They both are good answers.
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,X list contains: Einstein_family spouse Einstein_family-there is no names; y list is complete
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,better options
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Both lists are correct.
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,X IS BETTER LIST of award-winning comedy shows and their stars
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,X and Y both answer the question
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,Y is better. X is irrelevant because it s have a the same  movies.
+906,List of couples who have the same job ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"On Xlist there are 3 bad parts,like ""Wendy_Williams spouse Wendy_Williams""."
+906,List of couples who have the same job ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,same
+906,List of couples who have the same job ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,same topic
+906,List of couples who have the same job ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y famous
+906,List of couples who have the same job ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,its better
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both lists are valid
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Equal
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both are corect
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Both lists includes all the things asked for.
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,On Y lists not all cities are from appropriate countries.
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,List X have respeat
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both list are same
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,"Different lists,both by the rules."
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,all of them are good
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Equal
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,They both are good answers.
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,X list contains repetitive data
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both are corect
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,same
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,same
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,more famouse
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,All cities are in Eastern Time Zone.
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Equal
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both list are same
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Respected rules in both lists.
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same quality answers
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,they both have people
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,No difference.
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,all of them are Tabloid
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same results
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Both answers are same.
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both lists are good
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,List Y have repeat channels
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,X and Y both answer the question
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,same
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,They both are same.
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,X
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,y list has more various results
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Equal
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Both lists fulfill what is asked
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,they both acting and director
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Both lists are correct.
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,more famous people in x
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x more famous
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,better
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same list
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X is better because it’s more accurate
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,same
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,They both are same.
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Aynı
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same results
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same because both list are corect
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,All of them were born in Dallas.
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,more producerd
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both lists are  accurate
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,x list has more various results
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,Fail list y
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Both lists are of spectacles starring for the nbc
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,NBC
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y better answer
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both provides valid answer
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,All rules are respected.
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,distribuidores correctos
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both lists are valid
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Equal
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Not sure films from list Y are all Disney's.
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,"all movies in X are disney movies, not all movies in Y are disney movies"
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Fail list y
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X lists all the movies from disney.
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y is not a list of Disney movies at all; X is good
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y has more options
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,In X some composers are not from india and Y the composer is from india
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,x offers non indian music composers
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y lists movies of bollywood only.
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,indian
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is corect
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,List X have not horror movies
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,On X list movies are not horrors.
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y it's Horror movies
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y has animated movies
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Are well known films and composers
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,x because contains animated movie composers
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Answers are of animated movies.
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,animation
+940,List of arab countries prime ministers ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,More prime ministers
+940,List of arab countries prime ministers ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is better because it’s more accurate
+940,List of arab countries prime ministers ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,same
+940,List of arab countries prime ministers ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,It has better options.
+940,List of arab countries prime ministers ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Muammar_Gaddafi Başbakan Abdessalam_Jalloud
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,More list of software
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is better because it’s more accurate
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y about softwares
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y lists options that were invented by Microsoft.
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Msdos
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X is corect
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,All Apple OS
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y list not about software.
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Better
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X it's apple software
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is corect
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,There is no correct answers in X. Y list is all correct
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"Y is better. X is irrelevant, it does not include any softwares that were developed by Nokia"
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,all by nokia
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,nokia developers
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is corect
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"There is no software developed by Samsung on X list, while Y contains few"
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"Y is better. X is irrelevant, it does not include any softwares that were developed by Samsung"
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,X has nothing to do with samsung
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,samsung list
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,y list doesn't answer to the question
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Fail in list y
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,softwares that were developed by Sony are listed only in X list
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X sony
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X because there is no sony products at Y list
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is corect
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,Not Areas os USA
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,On X list not US areas.
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Better
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is all time zones in USA
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y shows most africa areas
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,On X list not all areas in Africa.
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,huso africa
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"y list has all African nations, x list has not African countries too"
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,fail list x
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both lists have also other time zones than arabic
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y has arab zones
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y contain more arab countries
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Arab world
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Arab
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,x isnt about euro time zones
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"Y, all zone its in Europe"
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both give the right answer
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y only lists European time while X lists time from around the world.
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,europan
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both are corect
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,List X doesn't have films companies
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Not film companies on X list.
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Same
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y Are more known
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x list answers better to the question
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,fail in list y
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X list contains more banks
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X banka listesi
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x because there is non bank founders at y list
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both are corect
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,about  technology companies
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x is more fsmous names
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,better answers
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,More resorts
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is better because it’s more accurate
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y - resorts
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is a better option.
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Hilton
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X is corect
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,"There is no answers to query in Y, but there are 2 in X"
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,X and Y both not answer the question. So X and Y are the same.
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y not arab
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,No-Rank Approach,arab countries
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,y list is not about Europe
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Fail in list y
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Only X answers the question correctly
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y amerika
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,both x and y contains info for area code
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x provides more correct answer
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Not all regions from Y list in Africa.
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,regiones son sus codigos
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x list is more about Africa
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Fail list y
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,more indian producers
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x has indian
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y are not indian
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,List of INDIAN producers and their religions
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,INDIAN
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,The list X contain complete information
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,y list has results that are about other organizations
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y includes school and high school and its mottos.  only universities.
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,On Y list not only universities.
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Better
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X is corect
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y list is not list of USA presidents; X answers are correct
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,"X is better. Y is irrelevant, it does not include any death date of US presidents"
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,better
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,true list
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,has more indian actors
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,78/5000 Although in Y some names are not of actors is the one that has more quantity
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"Y because x is not the list of death for indian actors. Y also contains a few non indian people, but it is better."
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,It lists Indian actors.
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,more big list
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both provides valid answer
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Both lists are proper.
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,todas correctas
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,both lists don't answer to the question
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,same,Equal
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X is corect
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Better
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,politicians who are also actors
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,x are politicians
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,y isn't right
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,x list does not answer to the question
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Fail list x
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is corect
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y lists includes more famous NBA players who are also actors.
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Better
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is corect
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"Y list contains shows and hosts, which is not the case with X"
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"Y is better. X is irrelevant, it does not include any shows"
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,all shows
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,more shows
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,On X list are not trainers from NBA.
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,No list X
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y - more NBA
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,NBA coaches
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,list Y is correct
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,y list is about other sports
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Fail list y
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X is corect
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X list includes more famous FIFA team.
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Better
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,The list Y contains personalities of other nationalities
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,y list is about other awards
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y includes name of other countries' actors.
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,On Y list are not Bollywood actors.
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,same,Same
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,x list is unvalid
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Fail in list x
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Only Y list answers to question
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y dah uygun
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,just y list contains apple weight info
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y is corect
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,List_of_Playboy_Playmates_of_1970
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Not NBA players on X list.
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y better
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,Y Is more complete
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y has more famous commanders
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"Y, They are better known names"
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,"x and y both answer the question. Y contains a more known names, generally."
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,It's a better option because it has more data.
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,No-Rank Approach,Our Approach,No-Rank Approach,more detail
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,The list X is correct. The list Y no contain song by Shakira
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,y list is about songs not sung by Shakira
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Y list dos not includes Shakira's songs.
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,On Y list not Shakira's songs.
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,Better
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,More songs
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X is list of songs by Michael Jackson
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,On Y list there are no Jackson's songs.
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,y isnt about jacksons songs
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,"Y doesn't contain a proper data, X is good"
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,y list is unvalid
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,fail in list y
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,There is no song by Rihanna on Y list
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,X rihana
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,Our Approach,No-Rank Approach,Our Approach,there are no songs by rihanna at y list
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,X list is from different artists.
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,List X no songs of Taylor Switf
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,y - Taylor Swift
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,X are not Swift's songs
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,No-Rank Approach,Our Approach,Our Approach,there is no Taylor Swift in X list

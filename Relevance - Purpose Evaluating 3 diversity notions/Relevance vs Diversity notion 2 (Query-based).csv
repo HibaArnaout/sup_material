@@ -1,0 +1,301 @@
+Query_ID,Query_Natural_Language,Query_Type,ModelX,ModelY,User_Choice,Comment/Explanation
+24,List of people who worked with Kevin Bacon ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+24,List of people who worked with Kevin Bacon ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y are the better than x
+24,List of people who worked with Kevin Bacon ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,the same list answer the question
+25,List of rivers that have the same source country as the Amazon's ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+25,List of rivers that have the same source country as the Amazon's ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,it are the same booth
+25,List of rivers that have the same source country as the Amazon's ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same list answer the question
+26,List of universities ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+26,List of universities ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y are the better than x
+26,List of universities ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,are the same list
+27,List of Mathmaticians ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+27,List of Mathmaticians ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x are the better than y
+27,List of Mathmaticians ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,are the same list
+28,List of universities ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+28,List of universities ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same are equally
+28,List of universities ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same
+29,List of classical music composers ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+29,List of classical music composers ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,X
+29,List of classical music composers ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y has more various composer.
+30,List of movies for which the directors and the actors have won awards ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeats
+30,List of movies for which the directors and the actors have won awards ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x is more various than y.
+30,List of movies for which the directors and the actors have won awards ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x is the better than y
+31,List of late award-winning chemists ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeats answers
+31,List of late award-winning chemists ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,different persons
+31,List of late award-winning chemists ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x are the better than y
+32,List of award-winning spielberg movies ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+32,List of award-winning spielberg movies ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y are the better than x
+32,List of award-winning spielberg movies ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,Both
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y gave right answer
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same are the booth
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,Has a more varied list
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x has more various results
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,Both
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,Y
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeats
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,"x has 10 different people, y has 9."
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x are the better
+37,List of softwares ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+37,List of softwares ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,Both
+37,List of softwares ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,they all have got 10 different softwares.
+38,List of Philosophers ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+38,List of Philosophers ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same the booth are equally
+38,List of Philosophers ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same
+39,List of people interested in History ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+39,List of people interested in History ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,is most varibility
+39,List of people interested in History ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same
+40,List of people influenced by Freud ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+40,List of people influenced by Freud ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,it are same
+40,List of people influenced by Freud ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,are the same list
+41,List of art directors ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,Both have a varied list
+41,List of art directors ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,they are totally same.
+41,List of art directors ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,Both
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,Both
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same list answer the question
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+44,List of award-winning cartoonists ? ,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,List more varied
+44,List of award-winning cartoonists ? ,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y has more various results.
+44,List of award-winning cartoonists ? ,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,Y
+45,List of novelists ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeats answers
+45,List of novelists ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Relevance-only Approach,is most varibility
+45,List of novelists ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,List of novelists
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,List more varied
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x has more various results
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,X
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,x give only chaplin answers
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,X
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,x is all about charlie chaplin but y not.
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,it are the same booth
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,the same list anwer the question
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y has more various politicians.
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,better are the y
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same list answer the question
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,list more varied
+189,List of Tom Hanks movies ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+189,List of Tom Hanks movies ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Relevance-only Approach,recent movies
+189,List of Tom Hanks movies ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same the booth are equally
+190,List of rock music singers from Ottawa ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,x repeats answers
+190,List of rock music singers from Ottawa ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,more relevant
+190,List of rock music singers from Ottawa ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y are the better than x
+191,List of WB shows ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeats answers
+191,List of WB shows ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same the booth are equally
+191,List of WB shows ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+192,List of producers who worked with De Niro ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+192,List of producers who worked with De Niro ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y is better than x
+192,List of producers who worked with De Niro ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,are the list answer the question
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,List of comedies and more varied producers
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,"y has 10 different names, x has 9."
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,Both
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y are the better than x
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,Both
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,x give onlu us answers
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,is most varibility
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,List of scientists and their locations
+196,List of Australian comedy shows ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+196,List of Australian comedy shows ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+196,List of Australian comedy shows ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+197,List of law school institutions ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeats
+197,List of law school institutions ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x is more various than y.
+197,List of law school institutions ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x are the better than y
+198,List of Oxford graduates ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+198,List of Oxford graduates ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,Both
+198,List of Oxford graduates ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,they are totally same.
+199,List of creators and directors who worked in the same show ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,x repeats answers
+199,List of creators and directors who worked in the same show ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,is most varibility
+199,List of creators and directors who worked in the same show ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y are the better than x
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,Y
+201,List of Christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+201,List of Christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+201,List of Christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,are the same
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same the booth are equally
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y are the better than x
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,are the correct choice
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x are the better than y
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,X
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+205,List of actors-authors ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x is the better
+205,List of actors-authors ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,X
+205,List of actors-authors ?,Extended triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+206,List of Grammy Awards wining producers who were born in NYC ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+206,List of Grammy Awards wining producers who were born in NYC ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y has more various people than x.
+206,List of Grammy Awards wining producers who were born in NYC ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y are the better than x
+207,List of award-wining authors ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y give beater answer
+207,List of award-wining authors ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,it are the same booth
+207,List of award-wining authors ?,Extended triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,is most varibility
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,x give beather answer
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,X
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,x is all about frank sinatra but y not.
+243,List of national-book-award winning thriller novels ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,x has repet of answers
+243,List of national-book-award winning thriller novels ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,same,it are the same
+243,List of national-book-award winning thriller novels ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,y - not trillers
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y give better answer
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,is most varibility
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,same,both bad
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,same,Both have a varied list
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,same,both of them has no director named frank sinatra
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,same,Both
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeats
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,same,"in both x and y, there are 2 Woody Allen movies that Dick Hyman worked on"
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x are the better than y
+247,List of egyptian writers  ?,Extended triple pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeats
+247,List of egyptian writers  ?,Extended triple pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x has more various people.
+247,List of egyptian writers  ?,Extended triple pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x are the bettr than y
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,more relevant
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,x repeats answers
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,more relevant
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y are the better than x
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,x - has answer
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y are the bettter than x
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,same,the list are the same
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,x answer beater
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,x is all about woody allen.
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,x are the better than y
+252,List of Brazilian actors ?,Extended triple pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,Relevance-only Approach,y give beater answer
+252,List of Brazilian actors ?,Extended triple pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,Relevance-only Approach,is most varibility
+252,List of Brazilian actors ?,Extended triple pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,list more varied
+253,List of people who were born in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x are the better than y
+253,List of people who were born in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,Relevance-only Approach,Y
+253,List of people who were born in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Query-based Diversity Approach,Relevance-only Approach,Relevance-only Approach,y - more
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same list answer the question
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,list more varied
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same list answer the question
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,x repeats answers
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,is most varibility
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,list more varied
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,More varied list of stars and religions
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y has more various actors.
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,Y
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x is better than y
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,Both
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+899,List of information about the company that produced Seinfeld ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+899,List of information about the company that produced Seinfeld ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same are the equally
+899,List of information about the company that produced Seinfeld ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+900,List of romance-novel writers ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+900,List of romance-novel writers ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y better than x
+900,List of romance-novel writers ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same
+901,List of sitcoms produced by WB ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same
+901,List of sitcoms produced by WB ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+901,List of sitcoms produced by WB ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,Y
+902,List of sitcoms produced by the company that produced Home Improvement ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same list answer the question
+902,List of sitcoms produced by the company that produced Home Improvement ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same the booth are equally
+902,List of sitcoms produced by the company that produced Home Improvement ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,Both have a varied list
+903,List of actors who were born in Japan ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+903,List of actors who were born in Japan ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,Both
+903,List of actors who were born in Japan ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,"y has 10 different actors, x has 8"
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeats answers
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,it are the same booth
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same list answer the question
+905,List of schools located in California ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+905,List of schools located in California ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,Both
+905,List of schools located in California ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - more scools
+906,List of couples who have the same job ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Relevance-only Approach,x - wrong
+906,List of couples who have the same job ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same the booth are equally
+906,List of couples who have the same job ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,is most variability
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeats answers
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same list answer the question
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+908,List of award-winning computer scientists ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,x repeats answers
+908,List of award-winning computer scientists ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,it are the same booth
+908,List of award-winning computer scientists ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same list answer the question
+909,List of movies starred by actors born in Chicago ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,x repeats answers
+909,List of movies starred by actors born in Chicago ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,Both
+909,List of movies starred by actors born in Chicago ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y has got more various movies.
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,is most varibility
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+911,List of shows that Tarik Ergin was a guest on; and the episode number of these shows?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y gave only star track answer
+911,List of shows that Tarik Ergin was a guest on; and the episode number of these shows?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same results
+911,List of shows that Tarik Ergin was a guest on; and the episode number of these shows?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same the booth are equally
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,x swiches places on couples
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,more relevant
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+913,List of shooting guards who were born in New York city ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+913,List of shooting guards who were born in New York city ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,Both
+913,List of shooting guards who were born in New York city ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,they all have got 10 different people who born in nyc.
+914,List of people who worked on Desperate Housewives ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+914,List of people who worked on Desperate Housewives ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same list  answer the question
+914,List of people who worked on Desperate Housewives ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,List more varied
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,Most varied list of stars
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,"x has more various results, in y there are repeated names"
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,X
+916,"List of information about Cheers, Frasier, and some other shows ?",Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+916,"List of information about Cheers, Frasier, and some other shows ?",Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Relevance-only Approach,X
+916,"List of information about Cheers, Frasier, and some other shows ?",Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,is most varibility
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Relevance-only Approach,list more varied
+918,List of writers who had worked with D.W. Griffith ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+918,List of writers who had worked with D.W. Griffith ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,more relevant
+918,List of writers who had worked with D.W. Griffith ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same the booth are equally
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,Y
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same list answer the question
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x are te better than y
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,Both
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,x repeats
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,is most variability
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+923,List of movies where the star is the narrator of Braveheart ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same
+923,List of movies where the star is the narrator of Braveheart ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same the booth are equally
+923,List of movies where the star is the narrator of Braveheart ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,Both
+924,List of creators of shows produced by WB ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+924,List of creators of shows produced by WB ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same the booth are equally
+924,List of creators of shows produced by WB ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,the same list answer the question
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeats answers
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,most relevant
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x are the better than y
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y are the better than x
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,Y
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,Y
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,Query-based Diversity Approach,y - less duplicates
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,More varied list of NBC shows
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x has more various nbc shows.
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,X
+929,List of French mathematicians ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+929,List of French mathematicians ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,the same list answer the question
+929,List of French mathematicians ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,Both have the same variety of mathematicians
+930,List of people influenced by Albert Einstein ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same
+930,List of people influenced by Albert Einstein ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+930,List of people influenced by Albert Einstein ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,are the same list
+931,List of people who have blue eyes and brown hair ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+931,List of people who have blue eyes and brown hair ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,both have 10 different people.
+931,List of people who have blue eyes and brown hair ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same the booth are equally
+932,List of softwares that use Linux operating system ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,bouth answer the question right
+932,List of softwares that use Linux operating system ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,it are the same booth
+932,List of softwares that use Linux operating system ?,Triple-pattern queries with many results,Relevance-only Approach,Query-based Diversity Approach,same,same list answer the question
+933,List of US stadiums ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,same the booth are equally
+933,List of US stadiums ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,X
+933,List of US stadiums ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x - less duplicates
+934,List of publishers who published Stephen King books?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,bouth answer the question right
+934,List of publishers who published Stephen King books?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,it are the same booth
+934,List of publishers who published Stephen King books?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,the same list answer the question
+935,List of Meryl Streep movies distributors ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,y repeat answers
+935,List of Meryl Streep movies distributors ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,same,Both
+935,List of Meryl Streep movies distributors ?,Triple-pattern queries with many results,Query-based Diversity Approach,Relevance-only Approach,Query-based Diversity Approach,x has more various distributor.

@@ -1,0 +1,588 @@
+Query_ID,Query_Natural_Language,Query_Type,ModelX,ModelY,User_Choice,Comment/Explanation
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same mottos
+26,List of universities; their mottos; their homepages; and their number of postgraduate students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,IDENTICAL
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,X and Y identical lists
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both are correct
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,fjfgjghj
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same schools
+28,List of universities; their locations; and their number of doctoral students ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same list
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,music
+29,List of classical music composers movies about gunfights and battles ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same movies
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,its the same list
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both lists are the same
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both Lists contain movies for which the stars and the directors have won awards
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+30,List of movies for which the stars and the directors have won awards ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,the same  in both columns
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,lists are the same
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,asasqw
+32,List of Spielberg award-wining movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,they both don't have spielberg
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,Our Approach,ONLY Y HAS SHOW ABOUT SCHOOL
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,Our Approach,it's more accurate
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both Lists contain directors of comedy shows or movies about school and friends
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+33,List of directors of comedy shows or movies about school and friends ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same list
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same movies
+34,List of stars of comedy movies about police ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both have teams
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both same
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,List of teams; their managers; and their locations
+35,List of teams; their managers; and their locations ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same names
+36,List of employees and their alma maters ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,IDENTICAL
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same list
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,asa
+42,List of late actresses from Los Angeles; and their death dates ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,X and Y both answer the question
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same names
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,have the same names
+43,List of people who died in WWII and their resting places ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,X and Y both answer the question
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same name
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,lists are the same
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,KL-DIV Approach,asaqwasasasa
+46,List of actors who are also executive producers ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same movies
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,they are the same groups
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+185,List of Charlie Chaplin movies that were directed by one of their stars ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,X and Y both answer the question.So X and Y are the same.
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,its the same list
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,They are completly the same.
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Same lists with names
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,"X and Y both answer the question, and both include   Cannes Festival Film movies that were directed; writtern; and starred by the same person. So X and Y are the same"
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,hjkjjk
+186,List of Cannes Festival Film movies that were directed; writtern; and starred by the same person ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same festivals
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,its the same list
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,They are completly the same
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Bill Clinton is in both same number of times
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,"X and Y both answer the question, and both include  authors-politicians who graduated from a university in England  . So X and Y are the same"
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,hjkhj
+187,List of authors-politicians who graduated from a university in England ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same polliticans
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same list
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same items
+188,List of black comedy movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same movies
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,its the same list
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both lists are the same
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both list contain rock stars from Ottawa
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+190,List of rock stars from Ottawa ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both lists are the same
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both contain comedy movies
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+193,List of names and profits of comedy movies directed by one of their stars ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same movies
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,X and Y identical lists
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both are correct
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,asdasdqed
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same actors
+194,List of authors who are also actors in drama movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both the same
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+195,List of scientist who were born and died in the same place ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same names
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same names
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,lists are identical
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+197,List of law schools; their locations; and their number of students ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same schools
+199,List of creators and directors who worked in the same show ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+199,List of creators and directors who worked in the same show ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+199,List of creators and directors who worked in the same show ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+199,List of creators and directors who worked in the same show ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same actors
+199,List of creators and directors who worked in the same show ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,IDENTICAL
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,X and Y identical lists
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both are correct
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,vjgvkghkfghfg
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same names
+200,List of comedy writers who are married to sitcom-producers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+201,List of Christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both the same
+201,List of Christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+201,List of Christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+201,List of Christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+201,List of Christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+201,List of Christmas movies; their stars and directors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same names
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,X and Y identical lists
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both are correct
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,asda sdafq eqw asf
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same weddingmovie writers
+202,List of death places of wedding-movie writers ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same name
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,lists are the same
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,asaaoq
+203,List of Bette Davis movies with her late co-stars ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same movies
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,X and Y both answer the question
+204,List of late comedy directors; their death places and dates ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,CORRECT
+205,List of actors-authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+205,List of actors-authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,KL-DIV Approach,better
+205,List of actors-authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+205,List of actors-authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+205,List of actors-authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,lists are identical
+205,List of actors-authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same actors.authors
+206,List of Grammy Awards wining producers who were born in NYC ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,its the same list
+206,List of Grammy Awards wining producers who were born in NYC ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,They are completly the same
+206,List of Grammy Awards wining producers who were born in NYC ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,In both lists same names
+206,List of Grammy Awards wining producers who were born in NYC ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,X and Y both answer the question by listing Grammy Awards wining producers who were born in NYC
+206,List of Grammy Awards wining producers who were born in NYC ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+206,List of Grammy Awards wining producers who were born in NYC ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,hjkhjk
+206,List of Grammy Awards wining producers who were born in NYC ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same producers
+207,List of award-wining authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+207,List of award-wining authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same names
+207,List of award-wining authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+207,List of award-wining authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+207,List of award-wining authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,lists are identical
+207,List of award-wining authors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same authors
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,same,both have producers
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,same,Looks same to me
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,same,same answer
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,same,List of producers who had worked with Frank Sinatra
+242,List of producers who had worked with Frank Sinatra ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,same,same
+243,List of national-book-award winning thriller novels ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,same list
+243,List of national-book-award winning thriller novels ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,same
+243,List of national-book-award winning thriller novels ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+243,List of national-book-award winning thriller novels ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,same thrillers
+243,List of national-book-award winning thriller novels ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,X and Y both answer the question
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,Our Approach,more famous
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,KL-DIV Approach,better x
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,same,list with both actors
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,same,Neither answers the question.
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,same,ve
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,KL-DIV Approach,asasqqqqs
+244,List of movies starred by both Frank Sinatra and John Mahoney ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,Our Approach,x has other actors
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,KL-DIV Approach,Our Approach,same,frank sinatra wasnt a movie director
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,KL-DIV Approach,Our Approach,Our Approach,the fims are more popular
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,KL-DIV Approach,Our Approach,same,both contain comedy movies starred by a couple
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,KL-DIV Approach,Our Approach,same,Neither answer the question.
+245,List of comedy movies starred by a couple and directed by Frank Sinatra ?,Extended triple pattern queries with zero results,KL-DIV Approach,Our Approach,same,sa
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,Our Approach,Y is not relevant
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,Our Approach,best
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,asdad
+246,List of Woody Allen movies that Dick Hyman worked on ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,Our Approach,X is better because it’s more accurate.
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,Our Approach,X is irrelevant
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,same,same
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,Our Approach,X does not mention correct occupations. Y partially answers the question.
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,same,both are from oxford
+248,List of doctors who graduated from the University of Oxford ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,Our Approach,"Y contains a Doctor, X doesn't specify what degree these people have."
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,X and Y identical lists
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,same
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,both lists contain movies made by Woody Allen and Scarlett Johansson
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,sa
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+249,List of movies produced by Woody Allen and directed by Scarlett Johansson ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,same movies
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,same,Neither answer the question.
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,Our Approach,sa
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,Our Approach,"Y has a movie with that requirement, X not"
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,Our Approach,Y is better because it’s more accurate
+250,List of movies created by John Mahoney and starred by Jane Leeves ?,Triple-pattern queries with zero results,KL-DIV Approach,Our Approach,Our Approach,MORE CORRECT
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,same name
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,same
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,lists are identical
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+251,List of Woody Allen movies writers ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,Same movies
+253,List of people who were born in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,Our Approach,y doesnt cover topic
+253,List of people who were born in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,Our Approach,agatha cristie
+253,List of people who were born in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,Our Approach,X fully answers the question. Y features random people's death places.
+253,List of people who were born in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,Our Approach,best
+253,List of people who were born in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,same,have the same names
+253,List of people who were born in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,Our Approach,"There's some incorrect answers in this list, but it cover mainly both requirements better (Agatha Christie death place and Oxford). Y answers the Oxford part, but not the Agatha Christie."
+253,List of people who were born in Agatha Christie's death place; and who graduated from Oxford ?,Triple-pattern queries with zero results,Our Approach,KL-DIV Approach,Our Approach,more from oxford
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both the same
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same movies
+894,List of movies that were directed by one of their stars ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same in both
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,lists are the same
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,asa
+895,List of movies starred by couples; and their directors ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,KL-DIV Approach,same movies
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both have actors
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Looks same to me
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,List of actors who are influenced by the same people
+896,List of actors who are influenced by the same people ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Same list with names and religion
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,lists are identical
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,adas
+897,List of movies that were directed by one of their stars; and their religion ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,Our Approach,same movies
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both the same
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,"X and Y both answer the question, and both include  couples who were born in the same place . So X and Y are the same."
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+898,List of couples who were born in the same place ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same names
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,its the same list
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,They are completly the same
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Same names in both lists
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,"X and Y both answer the question, and both include award-winning comedy shows and their stars. So X and Y are the same"
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,l
+904,List of award-winning comedy shows and their stars ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same movies
+906,List of couples who have the same job ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+906,List of couples who have the same job ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same name different places
+906,List of couples who have the same job ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+906,List of couples who have the same job ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,lists are identical
+906,List of couples who have the same job ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+906,List of couples who have the same job ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,asqq
+906,List of couples who have the same job ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same actors and names
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,is the same list
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both list same
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,BOTH SAME
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+907,List of sitoms; their directors; the spouses and the birth places of the directors ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,asdadad
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,Our Approach,more famous
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,X and Y they are both accurate. X and Y both answer the question by listing producers who were born in the same places; and the largest city in that place
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,KL-DIV Approach,more varied
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+910,List of producers who were born in the same places; and the largest city in that place (i.e country) ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both have couples
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Looks same to me
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,List of couples who graduated from the same universities
+912,List of couples who graduated from the same universities ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,its the same list
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both lists are the same
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,lists are the same
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,asqwqw
+915,List of stars who are also producers; and their birth names ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,its the same list
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,They are completly the same
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Same lists X and Y
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,X and Y both answer the question by listing cities that have the same time zones as NYC's
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,hkh
+917,List of cities that have the same time zones as NYC's ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same time zones
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same names
+919,List of people who graduated from Harvard University and their nationalities ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,IDENTICAL
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both the same
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+920,List of newspapers who have the same format as The Oxford Times' ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same names
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both have channels
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Looks same to me
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,List of channels; theis slogans; and their first air dates
+921,List of channels; theis slogans; and their first air dates ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both have directors
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both lists are the same
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,lists are identical
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+922,List of late directors who were actors at the same time; and their death places and dates ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,its the same list
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both lists are the same
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,"both Lists contain producers, actors and directors who were born in the same place"
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+925,List of producers; actors; and directors who were born in the same places ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both are the same
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both have coouples
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both list same
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same answers
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,List of couples who worked with the same directors
+926,List of couples who worked with the same directors ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,its the same list
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,Our Approach,More details
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Same list both
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,"X and Y both answer the question, and both include  producers who were born in Dallas . So X and Y are the same"
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,hkhjk
+927,List of producers who were born in Dallas ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both from dallas
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both have nbc shows
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Looks same to me
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,BOTH SAME
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+928,List of stars of NBC shows ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,asdad
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,its the same list
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both lists are the same
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both lists contain of distributors of Meryl Streep movies
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+935,List of distributors of Meryl Streep movies ?,Triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same composers
+936,List of music composers in Disney movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,IDENTICAL
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both have indian movies
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Rahman in both
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,BOTH SAME
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both partially answer the question and are the same.
+937,List of music composers in indian movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,adqwdqdqd
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both have composers
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Looks same to me
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same answer
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,List of music composers in horror movies
+938,List of music composers in horror movies ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same animated movies in both
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,lists are the same
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,asasasasas
+939,List of music composers in animated movies ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same movies
+940,List of Arab countries prime ministers ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both the same
+940,List of Arab countries prime ministers ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+940,List of Arab countries prime ministers ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+940,List of Arab countries prime ministers ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+940,List of Arab countries prime ministers ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+940,List of Arab countries prime ministers ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same names
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,its the same list
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Microsoft is on both list
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,BOTH SAME
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+941,List of softwares that were developed by Microsoft ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,asdasdqwd
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,its the same list
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both lists are the same
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both lists contain software developed by Apple
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+942,List of softwares that were developed by Apple ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same names
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+943,List of softwares that were developed by Nokia ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same softwares
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,is the same list
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Same results
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,BOTH SAME
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+944,List of softwares that were developed by Samsung ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,adadqdd
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both have sony softwares
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,"They are all the same, just in different order"
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+945,List of softwares that were developed by Sony ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same softwares
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,X and Y identical lists
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both are correct
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,fjhfghjgj ghfj
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same areas
+946,List of time zones of areas in the United States ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both the same
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+947,List of time zones of areas in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same zones
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,They are completly the same
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,In both lists same time zones
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both partially answer the question.
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,"X and Y both answer the question, and both include time zones of areas in the Arab world . So X and Y are the same."
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,l
+948,List of time zones of areas in the Arab world ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same zones
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,X and Y both answer the question
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,they are the same time zones
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,I answer same because both options X and Y are same.
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,these are the same
+949,List of time zones of areas in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,X and Y they are both accurate. X and Y both answer the question by listing  time zones of areas in Europe
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,X and Y identical lists
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both are correct
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,iuhjiyhhi
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same companies
+950,List of film companies and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same names
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,Our Approach,"Y fully answers the question. X is about corporations/councils/etc, not banks."
+951,List of banks and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,the same banks
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,X and Y identical lists
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both are correct
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,samme
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,asdad
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same information technology companies
+952,List of information technology companies and their founders ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,its the same list
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Same both
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,BOTH SAME
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+953,List of resorts and their founders ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,asdqdq
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both the same
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both partially answer the question and are the same.
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+954,List of area codes in regions in the Arab world ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,KL-DIV Approach,other are from another country
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,Our Approach,names of europe
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,the same codes
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+955,List of area codes in regions in Europe ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,Our Approach,has better regions
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,more relevant
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,"Both partially answer the question, but X has more African countries."
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,other are from other countries
+956,List of area codes in regions in Africa ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,"X contains Africa regions, Y not"
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both the same
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+957,List of indian producers and their religions ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same names
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,its the same list
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,lists are identical
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,asqq
+958,List of universities and their mottos ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same mottos
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,the same name in both
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,lists are the same
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,sa
+959,List of death dates of US presidents ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same deaths
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,its the same list
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,They are completly the same
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Same dates of death in both
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,"X and Y both answer the question, and both include  death dates of indian actors  . So X and Y are the same."
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,l
+960,List of death dates of indian actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same actors
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both have late indian producers
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both are irelevant
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,BOTH SAME
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,no indian producers
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+961,List of late indian producers and their death causes ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,adqdqwqwedad
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both have politicians
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,SAme both
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,BOTH SAME
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question and are the same.
+962,List of politicians who are also actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,adqdqd
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same actors
+963,List of NBA players who are also actors ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,IDENTICAL
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same names
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,lists are identical
+964,List of shows and their hosts ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same shows
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both have nba coaches
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,More relevant
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,List of NBA coaches
+965,List of NBA coaches ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both are good answers
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,better names
+966,List of FIFA coaches ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,X and Y both answer the question
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,more relevant answers
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,both sets have bollywood actors
+967,List of award-winning Bollywood actors ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,KL-DIV Approach,better actors
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same quality answer
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same names
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both fully answer the question.
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,Both lists have the same information
+968,List of Apple products and their weights ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,same,same products
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same list
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,X and Y both answer the question
+969,List of NBA players and their weights ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,SAME LIST
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,its the same list
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,Our Approach,More detailed
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,In both lists military commanders are same
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,"X and Y both answer the question, and both include military commands and their commanders  . So X and Y are the same."
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question and are the same.
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,hkhkhjk
+970,List of military commands and their commanders ?,Triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same commanders
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both have shakira's songs
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Shakira in both
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,BOTH SAME
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,Our Approach,Both fully answer the question but the songs in Y are more famous.
+971,List of songs by Shakira ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,asdad
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,both have michael jackson's songs
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,All songs of Michael in both
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same answer
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,List of songs by Michael Jackson
+972,List of songs by Michael Jackson ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,same quality answer
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,Our Approach,they are songs more knomw
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both are correct
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both fully answer the question.
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,sa
+973,List of songs by Rihanna ?,Extended triple-pattern queries with many results,KL-DIV Approach,Our Approach,same,Both lists have the same information
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,"X fully answers the question. Y is about The Beatles, not Taylor Swift."
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,Y does not match question
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,X is correct
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,sa
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,jjgkgmh t yit
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,the other are from the beatles
+974,List of songs by Taylor Swift ?,Extended triple-pattern queries with many results,Our Approach,KL-DIV Approach,Our Approach,"C has the songs by Taylor Swift, Y has songs by The Beatles so it's incorrect."
